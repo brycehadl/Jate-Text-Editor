@@ -1,6 +1,7 @@
 # JATE "Just Another Text Editor"
 
 ## Description
+
 ```
 J.A.T.E is a locally installable Progressive Web Application (PWA) that operates in the browser offline. This program uses a variety of data persistence strategies to ensure that it functions on all supported browsers. The idb software and an IndexedDB database are used by J.A.T.E. You can access this application in production by reading the docs; it has been deployed to Heroku!
 ```
