@@ -54,7 +54,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Usage
 
-LIVE URL: https://bryce-text-editor-122cc371db37.herokuapp.com/
+LIVE URL: [https://bryce-text-editor-122cc371db37.herokuapp.com/](https://bryce-pwa-text-editor-6035a2b7f477.herokuapp.com/)
 
 ![Just Another Text Editor](text-editor.png)
 
